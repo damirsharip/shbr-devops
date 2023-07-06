@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-rm -rf ./shbr-echo \
+sudo rm -rf ./shbr-echo \
        ./build-java \
        ./build-python \
        ./build-go
